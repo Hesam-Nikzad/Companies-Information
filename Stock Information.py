@@ -23,7 +23,7 @@ def get_info(info_dict):
 
 def stock_names():
     
-    Stock_Name_Path = 'C:\\Users\\Hessum\\OneDrive\\Bourse\\Stock Market Python\\Financial Market Projects\\Dictionary.txt'
+    Stock_Name_Path = 'C:\\Users\\Hessum\\OneDrive\\Bourse\\Stock Market Python\\Financial Market Projects\\Companies-Information\\Dictionary.txt'
     Stock_Name_Per2En = open(Stock_Name_Path, 'r')
     lines = Stock_Name_Per2En.readlines()
     Per2En = {}
