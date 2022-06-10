@@ -23,7 +23,7 @@ def get_info(info_dict):
 
 def stock_names():
     
-    Stock_Name_Path = 'C:\\Users\\Hessum\\OneDrive\\Bourse\\Dictionary.txt'
+    Stock_Name_Path = 'C:\\Users\\Hessum\\OneDrive\\Bourse\\Stock Market Python\\Financial Market Projects\\Dictionary.txt'
     Stock_Name_Per2En = open(Stock_Name_Path, 'r')
     lines = Stock_Name_Per2En.readlines()
     Per2En = {}
@@ -46,6 +46,10 @@ cnx = mysql.connector.connect(user='root', password='harchi',
 
 cursor = cnx.cursor()
 
+# stock_info = [ID, FullName, EnglishName, CompanySymbol, PersianSymbol, GroupID, GroupName, IndustryID,
+#               IndustryName, TSEAddress, TseCIsinCode, TseSIsinCode, MarketID, MarketName, EnglishSymbol]
+# EnglishSymbol is Primary Key
+
 for item in all_stock_info:
 
     stock_info = get_info(item)
@@ -57,7 +61,5 @@ for item in all_stock_info:
 
     except:
         continue
-
-
 
 cnx.close()
