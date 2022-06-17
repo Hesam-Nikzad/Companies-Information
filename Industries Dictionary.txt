@@ -1,0 +1,58 @@
+TEDPIX_D,شاخص کل
+KolFaraBourse_D,شاخص کل فرابورس
+KoleHamVazn_D,شاخص کل هم وزن
+GheymatHamVazn_D,شاخص قیمت هم وزن
+GheymatVazniAr_D,شاخص قیمت وزنی ارزشی
+BazarAvalFarab_D,بازار اول فرابورس
+BazarDovomFara_D,بازار دوم فرابورس
+FirstMarket_D,شاخص بازار اول
+SecondMarket_D,شاخص بازار دوم
+50Sherkat_D,شاخص 50 شرکت برتر
+30SherkateBozo_D,شاخص 30 شرکت بزرگ
+50SherakatGeyma_D,شاخص قیمت 50 شرکت
+AzadeShenavar_D,شاخص آزاد شناور
+Industry_D,شاخص صنعت
+TEPIX_D,قیمت و بازده نقدی
+MahsolateFelez_D,سایر محصولات فلزی,15
+Darooe_D,مواد و محصولات دارویی,37
+AnbohSazi_D,انبوه سازی املاک و مستغلات,28
+Rayaneh_D,رایانه و فعالیت های وابسته به آن,29
+MashinAlat_D,ماشین آلات و تجهیزات,16
+FaravardehayeN_D,فرآورده های نفتی، کک و سوخت هسته ای,31
+Metals_D,استخراج کانه های فلزی,3
+KanehayeGeyreF_D,سایر محصولات کانی غیرفلزی,13
+Gazaee_D,محصولات غذایی و آشامیدنی به جز قند,5
+CoalMining_D,استخراج ذغال سنگ,2
+KhodroVaGhataat_D,خودرو و ساخت قطعات,20
+GhandVaShekar_D,قند و شکر,36
+HamlVaNaghl_D,حمل و نقل,25
+VasayelErtebat_D,ساخت دستگاه ها و وسایل ارتباطی,18
+SayerMali_D,سایر واسطه گری های مالی,42
+EntesharVaChap_D,انتشار، چاپ و تکثیر,10
+Furniture_D,مبلمان و مصنوعات دیگر,22
+Paper_D,محصولات کاغذی,9
+FelezateAsasi_D,فلزات اساسی,14
+Shimiyaee_D,محصولات شیمیایی,11
+DastgahayeBarg_D,ماشین آلات و دستگاههای برقی,17
+SarmayeGozari_D,سرمایه گذاری ها,40
+Agriculture_D,زراعت و خدمات وابسته,1
+Lastic_D,لاستیک و پلاستیک,12
+ChandReshteSan_D,شرکت های چند رشته ای صنعتی,23
+Radio_D,مخابرات,33
+Peymankari_D,پیمانکاری صنعتی,24
+FaniVaMohandes_D,خدمات فنی و مهندسی,30
+KashiVaSeramik_D,کاشی و سرامیک,38
+HamlVaNaghl(35_D,سایر تجهیزات حمل و نقل,21
+Wood_D,محصولات چوبی,8
+Mansojat_D,منسوجات,6
+Mali_D,واسطه گری های مالی و پولی,58
+AbzarAlatePeze_D,ابزار پزشکی، اپتیکی و اندازه گیری,19
+SayerMadan_D,استخراج سایر معادن,4
+EstekrajeNaft_D,استخراج نفت گاز و خدمات جنبی جز اکتشاف,35
+MahsolateCharm_D,دباغی، پرداخت چرم و ساخت انواع پاپوش,7
+Siman_D,سیمان، آهک و گچ,39
+Bank_D,بانک ها و موسسات اعتباری,41
+BimehVaSandogh_D,بیمه و صندوق بازنشستگی به جز تامین اجتماعی,43
+AabBarghGaaz_D,تامین آب، برق و گاز,61
+BazarhayeMali_D,اداره بازارهای مالی
+KhordeForooshi_D,خرده فروشی به جز وسایل نقلیه,57
