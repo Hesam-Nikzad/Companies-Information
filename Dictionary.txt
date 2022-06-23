@@ -837,3 +837,7 @@ VISA,ویسا
 VISTA,ویستا
 YARA,یارا
 ZEYTOUN,زیتون
+FEGHADIR,فغدیر
+KAYAZD,کایزد
+ROSHD,رشد
+TFARS,تفارس
